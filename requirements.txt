@@ -1,0 +1,7 @@
+textblob
+nltk
+pandas
+scikit-learn
+matplotlib
+seaborn
+azureml-core
