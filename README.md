@@ -13,9 +13,9 @@ This project performs sentiment analysis on tweets using TextBlob, visualized vi
 ## Project Structure
 sentiment-analysis-azure/
 
-├── data/
+├── data/twitter-dataset.csv
 
-├── notebooks/
+├── notebooks/sentiment.ipynb
 
 ├── requirements.txt
 
