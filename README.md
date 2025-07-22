@@ -13,8 +13,11 @@ This project performs sentiment analysis on tweets using TextBlob, visualized vi
 ## Project Structure
 sentiment-analysis-azure/
 ├── data/
+
 ├── notebooks/
+
 ├── requirements.txt
+
 └── README.md
 
 
