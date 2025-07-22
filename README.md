@@ -1,4 +1,4 @@
-# sentiment-analysis-azure
+# Sentiment-analysis-azure
 
 # Sentiment Analysis on Tweets using Azure ML
 
