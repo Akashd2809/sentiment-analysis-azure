@@ -47,5 +47,9 @@ accuracy                           0.85      2000
 - seaborn
 - azureml-core
 
+## References
+1. https://textblob.readthedocs.io/en/dev/install.html
+2. https://medium.com/@maleeshadesilva21/preprocessing-steps-for-natural-language-processing-nlp-a-beginners-guide-d6d9bf7689c9
+
 ## Contact
 Akash Deep Singh | Georgian College | Artificial Intelligence
